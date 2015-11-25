@@ -24,6 +24,6 @@ On Windows:
 
 ## On Travis ###
 
-[![Build Status](https://travis-ci.org/bwaldvogel/hibernate-element-collection-access-type.png?branch=master)](https://travis-ci.org/bwaldvogel/hibernate-element-collection-access-type)
+[![Build Status](https://travis-ci.org/bwaldvogel/hibernate-element-collection-access-type-issue.png?branch=master)](https://travis-ci.org/bwaldvogel/hibernate-element-collection-access-type-issue)
 
 [HHH-10330]: https://hibernate.atlassian.net/browse/HHH-10330
