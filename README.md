@@ -1,7 +1,9 @@
-# Hibernate Issue: @Column annotation is disregarded for entities in an @ElementCollection if owning entity uses AccessType.PROPERTY for @Id field #
+# Test case for Hibernate issue HHH-10330 #
 
-Reproducible failing unit test for the [Hibernate ElementCollection / AccessType issue (HHH-10330)][HHH-10330].
+Reproducible failing unit test for the [Hibernate ElementCollection / AccessType issue (HHH-10330)][HHH-10330]:
 
+> @Column annotation is disregarded for entities in an @ElementCollection if
+> owning entity uses AccessType.PROPERTY for @Id field
 
 ## Howto ##
 
